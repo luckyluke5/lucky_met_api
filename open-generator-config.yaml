@@ -1,4 +1,0 @@
-# Config options for the dart-dio generator
-pubName: api
-pubVersion: 0.0.1
-pubDescription: "My API Client"
